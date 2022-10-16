@@ -45,3 +45,33 @@ git push git clone https://github.com/Siddeshg672/hello_world_public_war -b main
 ls
 git push git clone https://github.com/Siddeshg672/hello_world_public_war.git -b mod-new
 exit
+ls
+git clone https://github.com/Tahaseena/first-repo.git
+git add hello_world_public_war
+git remote -v
+sudo rm -f  hello_world_public_war
+rm -f  hello_world_public_war
+sudo rm -f  hello_world_public_war
+git init
+git branch -m  main
+ls
+cd first-repo
+ls
+cd ..
+git push  hello_world_public_war
+git add .
+git git branch
+git branch
+git init
+ls
+git add .
+git commit -m "first commit"
+git remote add origin https://github.com/Tahaseena/hello_world_public_war1.git
+git push
+git push origin main
+git push origin master
+git push origin main
+ls
+git add .
+git commit -m "first commit"
+ls
